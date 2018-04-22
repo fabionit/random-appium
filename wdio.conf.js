@@ -8,8 +8,8 @@ exports.config = {
     // should work too though). These services define specific user and key (or access key)
     // values you need to put in here in order to connect to these services.
     //
-    user: 'fabionit',
-    key: 'ce71f4ac-f67a-4a0e-9183-6a14205535bf',
+    user: '',
+    key: '',
 
 
     //
